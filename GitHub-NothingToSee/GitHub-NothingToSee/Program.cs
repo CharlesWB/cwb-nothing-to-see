@@ -10,6 +10,7 @@ namespace GitHub_NothingToSee
     {
         static void Main(string[] args)
         {
+            // Should be modified in the vsbranch.
             Console.WriteLine("Hello GitHub!");
         }
     }
